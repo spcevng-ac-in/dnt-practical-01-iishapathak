@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2010\Projects\Practical-1\Practical-1\bin\Debug\Practical-1.exe
+c:\users\asus\documents\visual studio 2010\Projects\Practical-1\Practical-1\bin\Debug\Practical-1.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Practical-1\Practical-1\obj\x86\Debug\Practical-1.exe
+c:\users\asus\documents\visual studio 2010\Projects\Practical-1\Practical-1\obj\x86\Debug\Practical-1.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\Practical-1\Practical-1\obj\x86\Debug\Practical-1.csprojResolveAssemblyReference.cache
